@@ -5674,3 +5674,84 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.17-22.57.51:641][372]LogHttp: Display: Sleeping 0.500s to wait for 2 outstanding Http requests.
 [2024.05.17-22.57.52:141][372]LogHttp: Display: Sleeping 0.500s to wait for 2 outstanding Http requests.
 [2024.05.17-22.57.52:642][372]LogHttp: Display: Sleeping 0.500s to wait for 2 outstanding Http requests.
+[2024.05.17-22.57.53:142][372]LogHttp: Display: Sleeping 0.500s to wait for 2 outstanding Http requests.
+[2024.05.17-22.57.53:643][372]LogHttp: Display: Sleeping 0.500s to wait for 2 outstanding Http requests.
+[2024.05.17-22.57.54:143][372]LogHttp: Display: Sleeping 0.500s to wait for 2 outstanding Http requests.
+[2024.05.17-22.57.54:643][372]LogHttp: Warning: 00000194633A6B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44CD5A6B-44F1-ED68-66C8-FD8F50DEA814%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2b3e3ab2463df507046f8fb5cccd2751%7Ce396be3e42394d67a00351c274afd0af%7Cbaf7baf2-c5f0-4f6d-b192-674a135e3776&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.17-22.57.54:643][372]LogHttp: Warning: 00000194633A6B00: request failed, libcurl error: 28 (Timeout was reached)
+[2024.05.17-22.57.54:643][372]LogHttp: Warning: 00000194633A6B00: libcurl info message cache 0 (  Trying 3.227.118.128...)
+[2024.05.17-22.57.54:643][372]LogHttp: Warning: 00000194633A6B00: libcurl info message cache 1 (TCP_NODELAY set)
+[2024.05.17-22.57.54:643][372]LogHttp: Warning: 00000194633A6B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.227.118.128) port 443 (#117))
+[2024.05.17-22.57.54:643][372]LogHttp: Warning: 00000194633A6B00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2024.05.17-22.57.54:643][372]LogHttp: Warning: 00000194633A6B00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.05.17-22.57.54:643][372]LogHttp: Warning: 00000194633A6B00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.05.17-22.57.54:643][372]LogHttp: Warning: 00000194633A6B00: libcurl info message cache 6 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2024.05.17-22.57.54:643][372]LogHttp: Warning: 00000194633A6B00: libcurl info message cache 7 (Closing connection 117)
+[2024.05.17-22.57.54:643][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.57.55:144][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.57.55:645][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.57.56:145][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.57.56:645][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.57.57:146][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.57.57:647][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.57.58:147][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.57.58:647][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.57.59:148][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.57.59:648][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.58.00:149][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.58.00:650][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.58.01:150][372]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44CD5A6B-44F1-ED68-66C8-FD8F50DEA814%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2b3e3ab2463df507046f8fb5cccd2751%7Ce396be3e42394d67a00351c274afd0af%7Cbaf7baf2-c5f0-4f6d-b192-674a135e3776&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: request failed, libcurl error: 28 (Timeout was reached)
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x193e234e290 [serially])
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: libcurl info message cache 2 (  Trying 3.227.118.128...)
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: libcurl info message cache 3 (TCP_NODELAY set)
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (3.227.118.128) port 443 (#118))
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: libcurl info message cache 8 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2024.05.17-22.58.01:650][372]LogHttp: Warning: 00000193DC9B7200: libcurl info message cache 9 (Closing connection 118)
+[2024.05.17-22.58.01:668][372]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2024.05.17-22.58.01:669][372]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2024.05.17-22.58.01:670][372]LogModuleManager: Shutting down and abandoning module Media (71)
+[2024.05.17-22.58.01:670][372]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2024.05.17-22.58.01:670][372]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2024.05.17-22.58.01:670][372]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2024.05.17-22.58.01:670][372]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2024.05.17-22.58.01:670][372]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2024.05.17-22.58.01:670][372]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2024.05.17-22.58.01:670][372]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2024.05.17-22.58.01:670][372]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2024.05.17-22.58.01:670][372]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2024.05.17-22.58.01:671][372]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2024.05.17-22.58.01:672][372]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.05.17-22.58.01:672][372]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.05.17-22.58.01:672][372]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.05.17-22.58.01:672][372]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.05.17-22.58.01:672][372]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.05.17-22.58.01:672][372]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.05.17-22.58.01:672][372]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.05.17-22.58.01:672][372]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.05.17-22.58.01:672][372]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.05.17-22.58.01:672][372]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.05.17-22.58.01:672][372]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2024.05.17-22.58.01:696][372]LogD3D11RHI: Shutdown
+[2024.05.17-22.58.01:696][372]LogD3D11RHI: CleanupD3DDevice
+[2024.05.17-22.58.01:697][372]LogExit: Exiting.
+[2024.05.17-22.58.01:706][372]Log file closed, 05/17/24 17:58:01
